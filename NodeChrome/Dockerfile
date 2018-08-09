@@ -11,8 +11,8 @@ USER root
 # Google Chrome
 #============================================
 # can specify versions by CHROME_VERSION;
-#  e.g. google-chrome-stable=53.0.2785.101-1
-#       google-chrome-beta=53.0.2785.92-1
+#  e.g. google-chrome-stable=67.0.3396.99
+#       google-chrome-beta=67.0.3396.99
 #       google-chrome-unstable=54.0.2840.14-1
 #       latest (equivalent to google-chrome-stable)
 #       google-chrome-beta  (pull latest beta)
